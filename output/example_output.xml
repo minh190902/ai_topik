@@ -1,0 +1,31 @@
+```xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<topic_question>
+  <metadata>
+    <level>중급</level>
+    <type>문법</type>
+    <subtype>주요 아이디어 찾기</subtype>
+    <topic>반려동물은 현대인들의 삶에 큰 영향을 미치며, 다양한 종류와 특징을 가지고 있습니다. 반려동물의 선택, 관리, 훈련의 중요성에 대해 논의합니다.</topic>
+    <skill>읽기</skill>
+  </metadata>
+  <passage><![CDATA[반려동물은 현대 사회에서 많은 사람들에게 큰 영향을 미치고 있습니다. 반려동물의 종류와 그들의 특징은 매우 다양하며, 이를 이해하는 것은 중요한 일입니다. 반려동물을 선택할 때는 성격, 크기, 관리의 용이성 등을 고려해야 합니다. 또한, 올바른 관리와 훈련은 반려동물의 행복을 보장하는 데 필요한 요소입니다.]]></passage>
+  <question><![CDATA[이 글에서 반려동물을 선택할 때 고려해야 할 주요 요소는 무엇인가요?]]></question>
+  <choices>
+    <choice id="1"><![CDATA[반려동물의 가격]]></choice>
+    <choice id="2"><![CDATA[반려동물의 성격과 크기]]></choice>
+    <choice id="3"><![CDATA[주인의 직업]]></choice>
+    <choice id="4"><![CDATA[주변의 반려동물]]></choice>
+  </choices>
+  <answer>
+    <id>2</id>
+    <explanation>
+      <rationale><![CDATA[반려동물을 선택할 때는 성격과 크기를 고려하는 것이 중요하다는 점이 글에서 강조되고 있습니다.]]></rationale>
+      <distractor_analysis>
+        <item choice_id="1"><![CDATA[가격은 고려사항이지만, 글의 주요 내용과는 관련이 적습니다.]]></item>
+        <item choice_id="3"><![CDATA[주인의 직업은 직접적인 고려 요소가 아닙니다.]]></item>
+        <item choice_id="4"><![CDATA[주변의 반려동물은 참고할 수 있지만, 선택의 주요 요소는 아닙니다.]]></item>
+      </distractor_analysis>
+    </explanation>
+  </answer>
+</topic_question>
+```
